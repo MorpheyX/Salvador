@@ -6,7 +6,8 @@ Salvador is discord bot like MidJourney, based on DALL-e.
 
 
 ### Demo Gif:
-https://i.imgur.com/Tb8DhPO.mp4
+
+![Salvador](https://giphy.com/gifs/FedjiHoRqsVj0BHgie)
 
 ### Installing
 1. Get your OpenAI API key
