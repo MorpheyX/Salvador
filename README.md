@@ -1,11 +1,12 @@
 # Salvador
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-Salvador is discord bot like MidJourney, but based on DALL-e.
-Blender feature is available.
+
+Salvador is discord bot like MidJourney, based on DALL-e.
+
 
 ### Demo Gif:
-![SalvadorGif](https://imgur.com/Tb8DhPO)
+![SalvadorGif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlsZnN4eXUwMzF5cjFwd3c0ZXdtMGVtYnRpN3B3eHBvb2c1dWV5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6FdK8AqmDKXNfCzGj/giphy.gif)
 
 ### Installing
 1. Get your OpenAI API key
