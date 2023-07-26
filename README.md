@@ -5,7 +5,7 @@
 Salvador is discord bot like MidJourney, based on DALL-e.
 
 
-### Demo Gif:
+### Demo Video:
 
 ![Salvador](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ2bTgyMWw4OTBzbWRzanRsMXg0ZGd2czdqaDRudDdkY3gyM2JhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FedjiHoRqsVj0BHgie/giphy.gif)
 
