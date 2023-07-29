@@ -1,3 +1,4 @@
+import time
 import requests
 import disnake
 from disnake.ext import commands
